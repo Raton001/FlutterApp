@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109743646014",
+    "firebase_url": "https://teachme-a3517.firebaseio.com",
+    "project_id": "teachme-a3517",
+    "storage_bucket": "teachme-a3517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109743646014:android:bbef997b6b57d37773b86f",
+        "android_client_info": {
+          "package_name": "com.heroshiroo.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109743646014-7ss50d4uciv46kapcbio7mh78mku943b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9EdtFsQ7twek_VoBUDyZgzMx1YnrhefA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109743646014-7ss50d4uciv46kapcbio7mh78mku943b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
